@@ -116,6 +116,7 @@ function App() {
         {momentIdx + 1} / {SortedData.length} <button onClick={onNext}>></button>
         </div>
         </div>
+      <div className="signature">-from spencer</div>  
       </div>
     </div>
   );

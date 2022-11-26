@@ -14,6 +14,7 @@
   min-height: 400px;
   max-width: 800px;
   width: 100%;
+  position: relative;
 }
 
 .content img {
@@ -25,7 +26,7 @@
 
 .moment {
   color: darkslateblue;
-  height: 100px;
+  min-height: 180px;
 }
 
 .date {
@@ -34,6 +35,9 @@
 }
 .next {
   float: right;
+}
+
+.signature {
 }
 
 .background {
